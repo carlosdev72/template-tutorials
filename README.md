@@ -14,8 +14,8 @@ https://help.github.com/articles/duplicating-a-repository/
 
 3. Desde la carpeta local temporal subimos el codigo al repositorio creado en GitHub  
 
-`cd template-tutorials.git`  
-`git push --mirror https://github.com/useraccount/new-repository.git`  
+  `cd template-tutorials.git`  
+  `git push --mirror https://github.com/useraccount/new-repository.git`  
 
 4. Eliminamos la carpeta temporal local  
 `cd ..`
