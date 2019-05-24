@@ -19,7 +19,7 @@ https://help.github.com/articles/duplicating-a-repository/
 `rm -rf old-repository.git`
 
 Alternativamente, también puede simplemente descargar un archivo comprimido de este repositorio y luego usar los 
-comandos estándar para empujar para inicializar y enviar a su nuevo repositorio.  
+comandos estándar para inicializar y subir a su nuevo repositorio.  
 
 ```bash
 git init
