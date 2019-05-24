@@ -10,7 +10,7 @@ https://help.github.com/articles/duplicating-a-repository/
 
 2. Creamos un clon limpio de ese repositorio en una carpeta local temporal.
   
-  `git clone --bare https://github.com/carlosdev72/template-tutorials.git`
+    `git clone --bare https://github.com/carlosdev72/template-tutorials.git`
 
 3. Desde la carpeta local temporal subimos el codigo al repositorio creado en GitHub
 `cd template-tutorials.git`  
