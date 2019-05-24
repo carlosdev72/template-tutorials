@@ -1,10 +1,10 @@
 # gitboook-publishable-template
-template to use for publishing gitbooks to github.com
+Plantilla que sirve para realizar tutoriales y publicarlos en github.com
 
-You can duplicate this repository 
+Aqui tienes información de como duplicar un repositorio
 https://help.github.com/articles/duplicating-a-repository/
 
-1. Create a new repository on github.com  
+1. Creamos un repositorio en GitHub  
 
 
 2. Create a bare clone of this repository
