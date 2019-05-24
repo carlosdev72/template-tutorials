@@ -12,7 +12,8 @@ https://help.github.com/articles/duplicating-a-repository/
   
     `git clone --bare https://github.com/carlosdev72/template-tutorials.git`
 
-3. Desde la carpeta local temporal subimos el codigo al repositorio creado en GitHub
+3. Desde la carpeta local temporal subimos el codigo al repositorio creado en GitHub  
+
 `cd template-tutorials.git`  
 `git push --mirror https://github.com/useraccount/new-repository.git`  
 
