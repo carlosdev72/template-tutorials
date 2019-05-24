@@ -1,7 +1,8 @@
 # Plantilla para realizar tutoriales con gitbook
 Plantilla que sirve para realizar tutoriales y publicarlos en github.com
 
-Aqui tienes información de como duplicar un repositorio
+Aqui tienes información de como duplicar un repositorio  
+
 https://help.github.com/articles/duplicating-a-repository/
 
 1. Creamos un repositorio en GitHub  
